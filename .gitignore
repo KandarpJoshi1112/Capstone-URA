@@ -1,0 +1,67 @@
+# -----------------------------
+# Python cache / build
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Pip / Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+logs/
+*.log
+
+# Temporary / temp data
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# In-project caches
+.cache/
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+
+# VS Code settings
+.vscode/
+.code-workspace
+
+# PyCharm
+.idea/
+
+# OS generated junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment & config backups
+*.old
+*.orig
+*.backup
+
+# JSON data backups (we only keep official mock_data)
+*.json~
+*~.json
+
+# Watchdog or development artifacts
+.watchman-cookie-*

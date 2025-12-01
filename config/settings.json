@@ -1,0 +1,16 @@
+﻿{
+  "mode": "demo",
+  "weather": {
+    "geocoding_endpoint": "https://geocoding-api.open-meteo.com/v1/search",
+    "forecast_endpoint": "https://api.open-meteo.com/v1/forecast",
+    "timezone": "Asia/Kolkata",
+    "units": "metric",
+    "demo_data_path": "data/mock_data/weather.json",
+    "timeout_seconds": 8,
+    "max_retries": 2
+  },
+  "logging": {
+    "level": "INFO",
+    "path": "logs/app.log"
+  }
+}
