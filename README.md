@@ -247,6 +247,14 @@ Executes planned tasks (stub, can be extended to calendars, reminders, smart-hom
 
 ---
 
+## 🧑‍💻 Author
+
+**Kandarp Joshi**
+AI & Data Science Developer
+
+🌐  Github: [@Kandarp Joshi](https://github.com/KandarpJoshi1112)
+🔗  LinkedIn: [@Kandarp Joshi](https://www.linkedin.com/in/kandarp-joshi-3451231bb/)
+
 ## 🤝 Contributing
 
 Pull requests are welcome.
